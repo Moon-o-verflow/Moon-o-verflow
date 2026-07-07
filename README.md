@@ -1,14 +1,14 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3a8a,100:3a5bd9&height=180&section=header&text=Beomsik%20Moon&fontColor=ffffff&fontSize=52&fontAlignY=38&desc=Product%20Engineer%20%C2%B7%20AI%20%26%20Data&descColor=dbeafe&descSize=20&descAlignY=60" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:1e3a8a,100:3a5bd9&amp;height=180&amp;section=header&amp;text=Beomsik%20Moon&amp;fontColor=ffffff&amp;fontSize=52&amp;fontAlignY=38&amp;desc=Product%20Engineer%20%C2%B7%20AI%20%26%20Data&amp;descColor=dbeafe&amp;descSize=20&amp;descAlignY=60" width="100%"/>
 
 새로운 걸 배우고 만들어보는 걸 좋아합니다.
 백엔드, AI, 앱, 인프라 — 필요하면 그때그때 익혀서 부딪혀왔습니다.
 
-<a href="mailto:moona0115@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white"/></a>
-<a href="https://github.com/Moon-o-verflow"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/></a>
-<a href="https://www.linkedin.com/in/%EB%B2%94%EC%8B%9D-%EB%AC%B8-938621345/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/></a>
+<a href="mailto:moona0115@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&amp;logo=gmail&amp;logoColor=white"/></a>
+<a href="https://github.com/Moon-o-verflow"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&amp;logo=github&amp;logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/%EB%B2%94%EC%8B%9D-%EB%AC%B8-938621345/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&amp;logo=linkedin&amp;logoColor=white"/></a>
 
 </div>
 
